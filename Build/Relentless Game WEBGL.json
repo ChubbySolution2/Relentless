@@ -1,0 +1,13 @@
+{
+"companyName": "Eleucid",
+"productName": "Relentless",
+"dataUrl": "Relentless Game WEBGL.data.unityweb",
+"asmCodeUrl": "Relentless Game WEBGL.asm.code.unityweb",
+"asmMemoryUrl": "Relentless Game WEBGL.asm.memory.unityweb",
+"asmFrameworkUrl": "Relentless Game WEBGL.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
