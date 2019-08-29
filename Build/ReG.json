@@ -1,0 +1,13 @@
+{
+"companyName": "Eleucid",
+"productName": "Relentless2",
+"dataUrl": "ReG.data.unityweb",
+"asmCodeUrl": "ReG.asm.code.unityweb",
+"asmMemoryUrl": "ReG.asm.memory.unityweb",
+"asmFrameworkUrl": "ReG.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
